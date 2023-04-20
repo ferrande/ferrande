@@ -11,15 +11,17 @@ Since starting my programming journey in october last year, I've been gaining va
 
 <h3>💻Languages and tools</h3>
 
-![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat-square&logo=javascript&logoColor=white&color=C7B1D1)
-![](https://img.shields.io/badge/Tool-Bootstrap-informational?style=flat-square&logo=bootstrap&logoColor=white&color=C7B1D1)
-![](https://img.shields.io/badge/Tool-Git-informational?style=flat-square&logo=git&logoColor=white&color=C7B1D1)
-![](https://img.shields.io/badge/Tool-Github-informational?style=flat-square&logo=github&logoColor=white&color=C7B1D1)
+![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat-square&logo=javascript&logoColor=white&color=F7DF1E)
+![](https://img.shields.io/badge/Code-CSS3-informational?style=flat-square&logo=css3&logoColor=white&color=1572B6)
+![](https://img.shields.io/badge/Tool-Bootstrap-informational?style=flat-square&logo=bootstrap&logoColor=white&color=7952B3)
+![](https://img.shields.io/badge/Tool-Git-informational?style=flat-square&logo=git&logoColor=white&color=F05032)
+![](https://img.shields.io/badge/Code-HTML5-informational?style=flat-square&logo=html5&logoColor=white&color=E34F26)
+![](https://img.shields.io/badge/Tool-Github-informational?style=flat-square&logo=github&logoColor=white&color=181717)
 
 <h3>🌱 I’m currently learning</h3>
 
-![](https://img.shields.io/badge/Code-C%23-informational?style=flat-square&logo=csharp&logoColor=white&color=C7B1D1)
-![](https://img.shields.io/badge/Tool-React-informational?style=flat-square&logo=react&logoColor=white&color=C7B1D1)
+![](https://img.shields.io/badge/Tool-React-informational?style=flat-square&logo=react&logoColor=white&color=61DAFB)
+![](https://img.shields.io/badge/Code-C%23-informational?style=flat-square&logo=csharp&logoColor=white&color=239120)
 
 <h3>🎮 When I'm not coding, you can find me:</h3>
 
