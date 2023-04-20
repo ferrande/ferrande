@@ -21,11 +21,11 @@ Since starting my programming journey in october last year, I've been gaining va
 ![](https://img.shields.io/badge/Code-C%23-informational?style=flat-square&logo=csharp&logoColor=white&color=C7B1D1)
 ![](https://img.shields.io/badge/Tool-React-informational?style=flat-square&logo=react&logoColor=white&color=C7B1D1)
 
-<h3>🌸 When I'm not coding, you can find me:</h3>
+<h3>🎮 When I'm not coding, you can find me:</h3>
 
-* 🎤 Singing
-* 🎮 Playing video games (currently obsessed with Valorant!)
-* 🌍 Studying languages and learning about different cultures
+* Singing
+* Playing video games (currently obsessed with Valorant!)
+* Studying (human) languages and learning about different cultures
 
 <h3>📫 How to reach me:</h3>
 
