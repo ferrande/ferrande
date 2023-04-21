@@ -9,18 +9,19 @@ Since starting my programming journey in october last year, I've been gaining va
 
 <h3>💻Languages and tools:</h3>
 
-![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat-square&logo=javascript&logoColor=white&color=F7DF1E)
-![](https://img.shields.io/badge/Code-CSS3-informational?style=flat-square&logo=css3&logoColor=white&color=1572B6)
-![](https://img.shields.io/badge/Tool-Bootstrap-informational?style=flat-square&logo=bootstrap&logoColor=white&color=7952B3)
-![](https://img.shields.io/badge/Tool-Git-informational?style=flat-square&logo=git&logoColor=white&color=F05032)
-![](https://img.shields.io/badge/Tool-Figma-informational?style=flat-square&logo=figma&logoColor=white&color=F24E1E)
-![](https://img.shields.io/badge/Code-HTML5-informational?style=flat-square&logo=html5&logoColor=white&color=E34F26)
-![](https://img.shields.io/badge/Tool-Github-informational?style=flat-square&logo=github&logoColor=white&color=181717)
+![](https://img.shields.io/badge/-JavaScript-0D1117?style=flat-square&logo=javascript&labelColor=0D1117&textColor=0D1117)&nbsp;
+![](https://img.shields.io/badge/-VS%20Code-0D1117?style=flat-square&logo=visual-studio-code&logoColor=007ACC&labelColor=0D1117)&nbsp;
+![](https://img.shields.io/badge/-CSS3-0D1117?style=flat-square&logo=css3&logoColor=1572B6&labelColor=0D1117)&nbsp;
+![](https://img.shields.io/badge/-Bootstrap-0D1117?style=flat-square&logo=bootstrap&labelColor=0D1117)&nbsp;
+![](https://img.shields.io/badge/-Git-0D1117?style=flat-square&logo=git&labelColor=0D1117)&nbsp;
+![](https://img.shields.io/badge/-Figma-0D1117?style=flat-square&logo=figma&logoColor=F24E1E)&nbsp;
+![](https://img.shields.io/badge/-HTML5-0D1117?style=flat-square&logo=html5&labelColor=0D1117)&nbsp;
+![](https://img.shields.io/badge/-Github-0D1117?style=flat-square&logo=github&labelColor=0D1117)&nbsp;
 
 <h3>🌱 I’m currently learning:</h3>
 
-![](https://img.shields.io/badge/Tool-React-informational?style=flat-square&logo=react&logoColor=white&color=61DAFB)
-![](https://img.shields.io/badge/Code-C%23-informational?style=flat-square&logo=csharp&logoColor=white&color=239120)
+![](https://img.shields.io/badge/-React-0D1117?style=flat-square&logo=react&labelColor=0D1117)&nbsp;
+![](https://img.shields.io/badge/-C%23-0D1117?style=flat-square&logo=csharp&labelColor=0D1117&logoColor=239120)&nbsp;
 
 <h3>🎮 When I'm not coding, you can find me:</h3>
 
