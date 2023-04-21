@@ -1,6 +1,4 @@
-
-
-<h1> Hiya! 😊 I'm Lily</h1>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&color=ffeebb&vCenter=true&width=435&lines=Hiya!+%F0%9F%98%8A+I'm+Lily" alt="Typing SVG" /></a>
 
 <p><em>Newbie @ <a href=https://www.linkedin.com/company/levva/>levva</a></em></p>
 
