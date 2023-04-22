@@ -2,7 +2,7 @@
 
 <p><em>Newbie @ <a href=https://www.linkedin.com/company/levva/>levva</a></em></p>
 
-<img align="right" alt="placeholder" height="234px" width="234px" src="https://user-images.githubusercontent.com/116698705/233512745-f696c258-4653-4f99-a663-417029f95cd2.png">
+<img align="right" alt="placeholder" height="194px" width="194px" src="https://user-images.githubusercontent.com/116698705/233512745-f696c258-4653-4f99-a663-417029f95cd2.png">
 
 <h3>👧🏻About me:</h3>
 Since starting my programming journey in october last year, I've been gaining valuable experience in HTML, CSS and JavaScript, which has been instrumental at landing my first job at levva, where I am now gaining valuable real-world experience in the tech industry as I further challenge myself each day!
