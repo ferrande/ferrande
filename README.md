@@ -9,15 +9,11 @@ I'm Lily, a UX/UI designer with over a year of experience turning messy ideas in
 
 <h3>💻Languages and tools:</h3>
 
-![](https://img.shields.io/badge/-Miro-0D1117?style=flat-square&logo=miro&logoColor=FFD02F&labelColor=0D1117&textColor=0D1117)&nbsp;
 ![](https://img.shields.io/badge/-JavaScript-0D1117?style=flat-square&logo=javascript&labelColor=0D1117&textColor=0D1117)&nbsp;
-![](https://img.shields.io/badge/-VS%20Code-0D1117?style=flat-square&logo=visual-studio-code&logoColor=007ACC&labelColor=0D1117)&nbsp;
-![](https://img.shields.io/badge/-CSS3-0D1117?style=flat-square&logo=css3&logoColor=1572B6&labelColor=0D1117)&nbsp;
-![](https://img.shields.io/badge/-Figma-0D1117?style=flat-square&logo=figma&logoColor=F24E1E)&nbsp;
-![](https://img.shields.io/badge/-HTML5-0D1117?style=flat-square&logo=html5&labelColor=0D1117)&nbsp;
-![](https://img.shields.io/badge/-Git-0D1117?style=flat-square&logo=git&labelColor=0D1117)&nbsp;
-![](https://img.shields.io/badge/-Github-0D1117?style=flat-square&logo=github&labelColor=0D1117)&nbsp;
+![](https://img.shields.io/badge/-TypeScript-0D1117?style=flat-square&logo=typescript&logoColor=3178C6&labelColor=0D1117)&nbsp;
 ![](https://img.shields.io/badge/-React-0D1117?style=flat-square&logo=react&labelColor=0D1117)&nbsp;
+![](https://img.shields.io/badge/-Git-0D1117?style=flat-square&logo=git&labelColor=0D1117)&nbsp;
+![](https://img.shields.io/badge/-Figma-0D1117?style=flat-square&logo=figma&logoColor=F24E1E)&nbsp;
 
 <h3>🎮 Beyond the prototypes:</h3>
 
