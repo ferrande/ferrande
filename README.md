@@ -5,7 +5,7 @@
 <img align="right" alt="placeholder" height="184px" width="184px" src="https://user-images.githubusercontent.com/116698705/233512745-f696c258-4653-4f99-a663-417029f95cd2.png">
 
 <h3>👧🏻About me:</h3>
-I'm Lily, a UX/UI designer driven by a passion for innovation. With six months of hands-on experience, I specialize in creating user-centric designs that merge form with function seamlessly. 
+I'm Lily, a UX/UI designer with over a year of experience turning messy ideas into clean, usable interfaces. I prioritize accessibility and consistency in every design.
 
 <h3>💻Languages and tools:</h3>
 
@@ -22,14 +22,16 @@ I'm Lily, a UX/UI designer driven by a passion for innovation. With six months o
 
 ![](https://img.shields.io/badge/-React-0D1117?style=flat-square&logo=react&labelColor=0D1117)&nbsp;
 
-<h3>🎮 When I'm not coding, you can find me:</h3>
+<h3>🎮 Beyond the prototypes:</h3>
 
-* Playing video games (currently obsessed with Valorant!)
-* Studying (human) languages and learning about different cultures
+* Building dream worlds in The Sims
+* Brain-dumping random ideas into my journal
+* Picking up new (human) languages and cultures
+
 
 <h3>📫 How to reach me:</h3>
 
 <a href="https://www.linkedin.com/in/ferrande/">ferrande</a> @ linkedin<br />
-<a href="mailto:ferrande.lais@gmail.com">ferrande.lais</a> @ gmail
+<a href="mailto:laisferrande@gmail.com">ferrande.lais</a> @ gmail
 
 <h3><em><strong>Thanks for swinging by - let's chat soon!</strong></em></h3>
