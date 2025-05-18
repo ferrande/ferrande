@@ -17,9 +17,6 @@ I'm Lily, a UX/UI designer with over a year of experience turning messy ideas in
 ![](https://img.shields.io/badge/-HTML5-0D1117?style=flat-square&logo=html5&labelColor=0D1117)&nbsp;
 ![](https://img.shields.io/badge/-Git-0D1117?style=flat-square&logo=git&labelColor=0D1117)&nbsp;
 ![](https://img.shields.io/badge/-Github-0D1117?style=flat-square&logo=github&labelColor=0D1117)&nbsp;
-
-<h3>🌱 I’m currently learning:</h3>
-
 ![](https://img.shields.io/badge/-React-0D1117?style=flat-square&logo=react&labelColor=0D1117)&nbsp;
 
 <h3>🎮 Beyond the prototypes:</h3>
